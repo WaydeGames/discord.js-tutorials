@@ -5,6 +5,7 @@
 {
 
   "token": "YOUR BOT TOKEN HERE"
+  
    "prefix": "YOUR BOT PREFIX HERE"
    
 }
